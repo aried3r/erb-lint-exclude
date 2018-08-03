@@ -1,0 +1,8 @@
+---
+linters:
+  FinalNewline:
+    enabled: true
+  HardCodedString:
+    enabled: true
+    exclude:
+      - 'app/views/**/*'
